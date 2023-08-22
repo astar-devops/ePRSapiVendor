@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0tq1uP7nGS4DAqwyEusTbuUT4DTGbBGNLCNOo9X7m8c=",
+  "Source": "ePRS_VendorAPI",
+  "BasePath": "_content/ePRS_VendorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
